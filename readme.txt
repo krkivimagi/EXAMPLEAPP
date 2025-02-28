@@ -7,3 +7,4 @@
 7. Uuesti 3. sammust
 
 NB: Terminali ei pea kinni panema.
+Projekt tuleb tõmmata minu repositooriumist zip failina ja luua sellest enda repo.
